@@ -73,4 +73,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contributors
 
-- [Your Name](https://github.com/your-github-username) - Project Author
+- [Stephen Ng'ang'a](https://github.com/stevengash) - Project Author
